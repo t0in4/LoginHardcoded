@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginHardcoded</string>
+    <string name="app_sudo">playerOne</string>
+    <string name="app_pass">p@$$w0r9</string>
+</resources>
